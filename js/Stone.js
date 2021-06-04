@@ -1,5 +1,5 @@
 
-class stone
+class Stone
 {
 	
 	constructor(x,y,r)
